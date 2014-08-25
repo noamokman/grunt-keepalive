@@ -1,4 +1,4 @@
-# grunt-keepalive
+# grunt-keepalive [![Build Status](https://travis-ci.org/noamokman/grunt-keepalive.svg?branch=master)](https://travis-ci.org/noamokman/grunt-keepalive)
 
 > Grunt task to keep your grunt process running
 

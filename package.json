@@ -1,0 +1,43 @@
+{
+  "name": "grunt-keepalive",
+  "version": "0.0.1",
+  "description": "Grunt task to keep your grunt process running",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "jshint-stylish": "^0.4.0",
+    "grunt": "^0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noamokman/grunt-keepalive.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "keepalive"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "author": {
+    "name": "Noam Okman",
+    "email": "noamokman@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/noamokman/grunt-keepalive/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/noamokman/grunt-keepalive/issues"
+  },
+  "homepage": "https://github.com/noamokman/grunt-keepalive"
+}
