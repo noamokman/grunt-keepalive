@@ -1,4 +1,4 @@
-# grunt-keepalive [![Build Status](https://travis-ci.org/noamokman/grunt-keepalive.svg?branch=master)](https://travis-ci.org/noamokman/grunt-keepalive)
+# grunt-keepalive [![Build Status](https://travis-ci.org/noamokman/grunt-keepalive.svg?branch=master)](https://travis-ci.org/noamokman/grunt-keepalive) [![Greenkeeper badge](https://badges.greenkeeper.io/noamokman/grunt-keepalive.svg)](https://greenkeeper.io/)
 
 > Grunt task to keep your grunt process running
 
